@@ -1,2 +1,2 @@
-# Java-Hands-on-2022
-Java programs from my practices
+# Code-Practice-2022
+Programs from my practices
