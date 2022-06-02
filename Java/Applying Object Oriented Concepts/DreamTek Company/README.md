@@ -2,6 +2,7 @@ DreamTek Company
 DreamTek Company provides an initial training for all its employees, once they join the company. During the training phase they call the employees as “Associate”. The initial training is conducted for 60 days for each Associate. In these 60 days they learn various technologies. The first 20 days they learn “Core skills”, the next 20 days they learn “Advanced modules” and the final 20 days they go to the “Project phase”.  Help the DreamTek Company to find in which phase the associates are in.
 
 Consider the below class:
+![image](https://user-images.githubusercontent.com/103244472/171676281-bcf1e400-359b-4989-aeed-14bbe5158d37.png)
 
 
 In the Associate class include the given attributes and methods with the access specifiers as specified in the class diagram.
