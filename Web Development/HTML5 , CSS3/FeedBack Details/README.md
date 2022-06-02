@@ -27,6 +27,7 @@ displayFeedback()   It is used to display the feedback details. After displaying
 Sample Input/Output:
 
 Screen1:
+
 ![image](https://user-images.githubusercontent.com/103244472/171701161-ac48ef3d-c922-4bf8-84a7-e763522dca81.png)
 
 Screen 2
